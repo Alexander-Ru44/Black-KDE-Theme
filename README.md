@@ -16,7 +16,7 @@ In this repository you'll find:
 
 GNU GPL v3
 
-## view
+## View
 ![view](View/View-1.png?raw=true)
 ![view](View/View-2.png?raw=true)
 ![view](View/View-3.png?raw=true)
