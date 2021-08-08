@@ -1,8 +1,17 @@
-# Black-KDE-Theme
+## Black-KDE-Theme
+
 In this repository you'll find:
 
--Aurorae Themes
+- Aurorae Themes
+- Plasma Color Schemes
+- Plasma Desktop Themes
 
--Plasma Color Schemes
+## Installation
 
--Plasma Desktop Themes
+```sh
+./install.sh
+```
+
+## License
+
+GNU GPL v3
