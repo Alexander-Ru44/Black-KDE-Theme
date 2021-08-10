@@ -12,6 +12,12 @@ In this repository you'll find:
 ./install.sh
 ```
 
+## Removal
+
+```sh
+./remove.sh
+```
+
 ## License
 
 GNU GPL v3
