@@ -12,6 +12,12 @@ In this repository you'll find:
 ./install.sh
 ```
 
+## Update
+
+```sh
+./update.sh
+```
+
 ## Removal
 
 ```sh
